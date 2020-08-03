@@ -9,5 +9,16 @@ Dogsify is an image classification web application that is able to differentiate
 
   * Project: https://dogsify.herokuapp.com/
   * Author: Owen Tan
+  
+## Liver Disease
+This Liver Disease project is a machine learning project developed to predict the chance of a person having liver disease. It is developed with Scikit Learn and Kaggle dataset.
+
+![alt text](liver.PNG "Liver Disease")
+
+  * Project: https://lit-basin-19638.herokuapp.com/
+  * Author: Mario Lim
+
+
+
 
 
