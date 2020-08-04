@@ -34,7 +34,13 @@ This Suicide Rate project is a machine learning project developed to predict the
   * Project: http://suicide-rate-model.herokuapp.com/
   * Author: Gerald Doh
 
+## Application Rating
+This Application Rating project is a machine learning project developed to predict an application rating based on the various prarameters provided. It is developed with Scikit Learn and Kaggle dataset.
 
+![alt text](applicationrating.PNG "Application Rating")
+
+  * Project: https://immense-journey-99649.herokuapp.com/
+  * Author: Lee Zi Qi
 
 
 
