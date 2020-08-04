@@ -21,18 +21,18 @@ This Liver Disease project is a machine learning project developed to predict th
 ## White Wine Quality
 This White Wine Quality project is a machine learning project developed to predict the quality percentage for white wine based on the chemical parameters provided. It is developed with Scikit Learn and Kaggle dataset.
 
-![alt text](whitewine.PNG "Liver Disease")
+![alt text](whitewine.PNG "White Wine")
 
-  * Project: https://lit-basin-19638.herokuapp.com/
+  * Project: https://protected-mesa-59327.herokuapp.com/
   * Author: Jonathan Yam
 
 ## Suicide Rate
-This White Wine Quality project is a machine learning project developed to predict the quality percentage for white wine based on the chemical parameters provided. It is developed with Scikit Learn and Kaggle dataset.
+This Suicide Rate project is a machine learning project developed to predict the rate of suicide in a country depending on various factors such as socio-economic status, quality of life, individual characteristics, etc. It is developed with Scikit Learn and Kaggle dataset.
 
-![alt text](liver.PNG "Liver Disease")
+![alt text](suiciderate.PNG "Suicide Rate")
 
-  * Project: https://lit-basin-19638.herokuapp.com/
-  * Author: Jonathan Yam
+  * Project: http://suicide-rate-model.herokuapp.com/
+  * Author: Gerald Doh
 
 
 
